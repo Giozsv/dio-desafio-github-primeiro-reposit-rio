@@ -13,3 +13,7 @@ Repositório criado para o Desafio de Projeto
 [codes.python.HTTP]https://docs.python-requests.org/en/latest/
 
 [blog.dio.bruno]https://brunocdias.blogspot.com/
+
+## Desafio Visual Studio:
+
+https://github.com/Giovanna0208/Instalar-e-configurar-Visual-Studio
